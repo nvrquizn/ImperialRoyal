@@ -117,8 +117,8 @@ button#label_currentChannel {
 
 div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
     content: url('https://i.ibb.co/s92xpwkp/goldcrown-20260504095129.png');
-    width: 250px !important;
-    height: 150px !important;
+    width: 150px !important;
+    height: 80px !important;
     object-fit: contain !important;
 }
 
