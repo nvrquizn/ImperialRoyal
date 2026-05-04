@@ -848,6 +848,14 @@ div.slider.round::before {
 	width: 200px;
 	height: 150px;
 	display: block;
+
+	/* 👑 DARK IMPERIAL GRADIENT BACKGROUND */
+	background: linear-gradient(
+		180deg,
+		#120e0a 0%,   /* deep mahogany shadow */
+		#1a1410 45%,  /* imperial stone */
+		#0f0c09 100%  /* abyssal royal base */
+	) !important;
 }
 
 /* ensure anchor doesn't collapse layout */
