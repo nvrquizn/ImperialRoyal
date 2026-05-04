@@ -50,7 +50,7 @@ READ ME:
 
 @media screen and (max-width: 800px){
   body {
-    background: url('https://i.ibb.co/6RMBd4gb/Screenshot-2026-05-04-at-08-20-43.png') no-repeat center center fixed;
+    background: url('https://i.ibb.co/1Cmt1x4/Screenshot-2026-05-04-at-09-17-41.png') no-repeat center center fixed;
     background-size: cover;
     font-family: 'Cinzel', serif;
     color: var(--kolur1) !important;
@@ -59,7 +59,7 @@ READ ME:
 
 @media screen and (min-width: 801px){
   body {
-    background: url('https://i.ibb.co/6RMBd4gb/Screenshot-2026-05-04-at-08-20-43.png') center center fixed;
+    background: url('https://i.ibb.co/1Cmt1x4/Screenshot-2026-05-04-at-09-17-41.png') center center fixed;
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Cinzel', serif;
@@ -70,7 +70,7 @@ READ ME:
 
 /* Royal Cursor */
 * {
-  cursor: url('https://cdn.cursors-4u.net/previews/blue-whale-9e9a3210-32.webp') 32 32, auto !important;
+  cursor: url('https://cdn.cursors-4u.net/previews/liquid-silver-star-6f359d4d-32.webp') 32 32, auto !important;
 }
 
 /* ============================= */
@@ -243,7 +243,7 @@ div.container.main>div:nth-child(1)>nav>div.navbar-header>a>img {
 
 /* base cave image styling (DO NOT override specific banners) */
 div.cave-grid > img {
-	content: url('https://i.ibb.co/Y7kVHdDC/Screenshot-2026-05-04-at-05-25-20.png') !important;
+	content: url('https://i.ibb.co/279xkccs/Screenshot-2026-05-04-at-09-19-24.png') !important;
 	height: 150px;
 	width: 250px;
 	opacity: 0.78;
@@ -254,7 +254,7 @@ div.cave-grid > img {
 
 /* hover base */
 div.cave-grid > img:hover {
-	content: url('https://i.ibb.co/Y7kVHdDC/Screenshot-2026-05-04-at-05-25-20.png') !important;
+	content: url('https://i.ibb.co/279xkccs/Screenshot-2026-05-04-at-09-19-24.png') !important;
 	opacity: 1;
 	filter: brightness(1.08) contrast(1.05);
 }
@@ -263,51 +263,51 @@ div.cave-grid > img:hover {
 
 /* prideoverview */
 div.cave-grid > img[src$="prideoverviewbanner.png"] {
-	content: url('https://i.ibb.co/Y7kVHdDC/Screenshot-2026-05-04-at-05-25-20.png') !important;
+	content: url('https://i.ibb.co/q397cVxZ/Screenshot-2026-05-04-at-09-21-29.png') !important;
 }
 
 /* hover version */
 div.cave-grid > img[src$="prideoverview.png"]:hover {
-	content: url('https://i.ibb.co/Y7kVHdDC/Screenshot-2026-05-04-at-05-25-20.png') !important;
+	content: url('https://i.ibb.co/q397cVxZ/Screenshot-2026-05-04-at-09-21-29.png') !important;
 	transition: 0.8s !important;
 }
 
 /* unsorted lions */
 div.cave-grid > img[src$="unsortedlionsbanner.png"] {
-	content: url('https://i.ibb.co/h1Kbs39h/Screenshot-2026-05-04-at-05-26-12.png') !important;
+	content: url('https://i.ibb.co/WN15fbZH/Screenshot-2026-05-04-at-09-22-11.png') !important;
 }
 
 div.cave-grid > img[src$="unsortedlionsbanner.png"]:hover {
-	content: url('https://i.ibb.co/h1Kbs39h/Screenshot-2026-05-04-at-05-26-12.png') !important;
+	content: url('https://i.ibb.co/WN15fbZH/Screenshot-2026-05-04-at-09-22-11.png') !important;
 	transition: 0.8s !important;
 }
 
 /* nesting */
 div.cave-grid > img[src$="nestingbanner.png"] {
-	content: url('https://i.ibb.co/HTJ4NW1x/Screenshot-2026-05-04-at-05-20-11.png') !important;
+	content: url('https://i.ibb.co/G4hWSktC/Screenshot-2026-05-04-at-09-23-02.png') !important;
 }
 
 div.cave-grid > img[src$="nestingbanner.png"]:hover {
-	content: url('https://i.ibb.co/HTJ4NW1x/Screenshot-2026-05-04-at-05-20-11.png') !important;
+	content: url('https://i.ibb.co/G4hWSktC/Screenshot-2026-05-04-at-09-23-02.png') !important;
 	transition: 0.8s !important;
 }
 
 /* regular caves */
 div.cave-grid > img[src$="cavedefault.jpg"] {
-	content: url("https://i.ibb.co/s9CqYjbH/Screenshot-2026-05-04-at-05-26-59.png") !important;
+	content: url("https://i.ibb.co/279xkccs/Screenshot-2026-05-04-at-09-19-24.png") !important;
 }
 
 div.cave-grid > img[src$="cavedefault.jpg"]:hover {
-	content: url("https://i.ibb.co/s9CqYjbH/Screenshot-2026-05-04-at-05-26-59.png") !important;
+	content: url("https://i.ibb.co/279xkccs/Screenshot-2026-05-04-at-09-19-24.png") !important;
 	transition: 0.8s !important;
 }
 
 div.cave-grid > img[src$="caveunused.jpg"] {
-	content: url("https://i.ibb.co/s9CqYjbH/Screenshot-2026-05-04-at-05-26-59.png") !important;
+	content: url("https://i.ibb.co/279xkccs/Screenshot-2026-05-04-at-09-19-24.png") !important;
 }
 
 div.cave-grid > img[src$="caveunused.jpg"]:hover {
-	content: url("https://i.ibb.co/s9CqYjbH/Screenshot-2026-05-04-at-05-26-59.png") !important;
+	content: url("https://i.ibb.co/279xkccs/Screenshot-2026-05-04-at-09-19-24.png") !important;
 	transition: 0.8s !important;
 }
 
@@ -320,7 +320,7 @@ div.cave-grid > img[src$="caveunused.jpg"]:hover {
 }
 
 .lionImage {
-	background: url('https://i.ibb.co/s9CqYjbH/Screenshot-2026-05-04-at-05-26-59.png') no-repeat !important;
+	background: url('https://i.ibb.co/q397cVxZ/Screenshot-2026-05-04-at-09-21-29.png') no-repeat !important;
 	background-size: cover;
 	box-shadow: 0 0 18px rgba(198, 180, 120, 0.18);
 }
@@ -348,7 +348,7 @@ div.cave-grid > img[src$="caveunused.jpg"]:hover {
 
 .mound-grid img[src$="beetlemound.png"],
 .mound-grid img[src$="addbeetlemound.png"] {
-	background: url('https://i.ibb.co/FLshbf23/Screenshot-2026-05-04-at-05-29-01.png') no-repeat center !important;
+	background: url('https://i.ibb.co/YBVPttXR/Screenshot-2026-05-04-at-09-24-53.png') no-repeat center !important;
 
 	width: 0 !important;
 	height: 0 !important;
@@ -824,6 +824,62 @@ div.slider.round::before {
 	box-shadow: 0 0 12px #c2a45a33 inset, 1px 1px 5px #000 !important;
 }
 
+/* 👑 CREDITS (DO NOT REMOVE) */
+.breadcrumb::after {
+	content: "CSS by Sak#327675";
+	color: #f5e6b3; /* imperial gold parchment */
+	text-shadow: 1px 1px 1.5px #120e0a; /* deep mahogany shadow */
+	font-size: 17px !important;
+	position: absolute;
+	right: 13%;
+	z-index: 100;
+}
+
+/* 🏛️ DYNASTY LIST */
+.dynastylist .left {
+	position: relative;
+	overflow: hidden;
+	border-radius: 10px;
+	background-size: cover !important;
+	background-position: center !important;
+	background-repeat: no-repeat !important;
+	transition: 0.8s ease;
+	box-shadow: 1px 1px 5px #120e0a; /* imperial shadow depth */
+	width: 200px;
+	height: 150px;
+	display: block;
+}
+
+/* ensure anchor doesn't collapse layout */
+.dynastylist a {
+	display: block;
+}
+
+/* shared behavior fix (prevents weird stretching / override conflicts) */
+.dynastylist .left {
+	display: block;
+}
+
+/* 👑 Dynasty image frame */
+div.left img {
+	content: url('https://i.ibb.co/0RWJ3y2S/Screenshot-2026-05-04-at-09-36-27.png') !important;
+	object-fit: cover;
+	object-position: top;
+	padding: 0;
+	height: 130px;
+	max-width: 130px !important;
+	border-bottom-left-radius: inherit;
+	border-bottom-right-radius: inherit;
+	box-shadow: inset 0 0 12px #c2a45a22; /* subtle gold inner frame */
+}
+
+/* ✨ hover glow effect (imperial royal aura) */
+.row.dynastycollection .dynastylist .left:hover {
+	transform: scale(1.03);
+	box-shadow: 0 0 10px #c2a45a55, 0 0 20px #f5e6b322, 1px 1px 5px #120e0a;
+	filter: brightness(1.15) saturate(1.1);
+}
+
 /* ============================= */
 /* 👑 CONTAINER */
 /* ============================= */
@@ -925,6 +981,70 @@ div.slider.round::before {
     .box {
         height: auto;
     }
+}
+
+/* ============================= */
+/* 👑 IMPERIAL PANELS */
+/* ============================= */
+
+/* 🏛️ Main panel frame */
+.panel,
+.panel.panel-default {
+	background: #1a1410 !important; /* imperial stone & mahogany base */
+	border: 0px ridge !important;
+	border-radius: 10px !important;
+	box-shadow: 0 0 10px #c2a45a22, inset 0 0 18px #c2a45a10;
+	color: #f5e6b3 !important;
+}
+
+/* 🪵 inner panel body */
+.panel-body {
+	background: #1a1410 !important;
+	color: #f5e6b3 !important;
+	text-shadow: 1px 1px 1.5px #000;
+	border-radius: 10px !important;
+}
+
+/* 👑 links inside panels */
+.panel a:link,
+.panel a:visited {
+	color: #f5e6b3 !important;
+	transition: 0.5s !important;
+}
+
+.panel a:hover {
+	color: #fff2c2 !important;
+	text-shadow: 0 0 6px #c2a45a55;
+	transition: 0.7s !important;
+}
+
+/* 🏛️ panel headers (like "Achievements", "Bookmarks") */
+.panel h1,
+.panel h2,
+.panel h3 {
+	color: #fff2c2 !important;
+	text-shadow: 0 0 10px #c2a45a33;
+}
+
+/* ============================= */
+/* 📊 PROGRESS BAR CONTAINERS (BOX AROUND BARS) */
+/* ============================= */
+
+/* THIS is the "box behind the bar" */
+.progress {
+	background: #241b12 !important; /* darker imperial frame */
+	border-radius: 20px !important;
+	box-shadow: inset 0 0 12px #c2a45a22, 0 0 6px #000;
+	border: 0px ridge !important;
+}
+
+/* ============================= */
+/* 📊 OPTIONAL: make panel sections feel more "royal framed" */
+/* ============================= */
+
+.panel,
+.panel-body {
+	box-shadow: 0 0 12px #c2a45a22, inset 0 0 20px #00000055;
 }
 
 /* 👑 IMPERIAL PARTICLES (golden court motes) */
