@@ -904,14 +904,14 @@ div.left img {
 /* ============================= */
 .box {
     flex: 1;
-    height: 240px;
+    min-height: 240px;   /* allows growth instead of forcing limit */
+    height: auto;        /* key fix */
 
-    /* 👑 IMPERIAL GOLD GRADIENT */
     background: linear-gradient(
         180deg,
-        rgba(45, 32, 18, 0.95),  /* warm mahogany gold base */
-        rgba(26, 20, 16, 0.95),  /* deep imperial stone */
-        rgba(245, 230, 179, 0.06) /* soft gold light glow */
+        rgba(45, 32, 18, 0.95),
+        rgba(26, 20, 16, 0.95),
+        rgba(245, 230, 179, 0.06)
     ) !important;
 
     border: 1px solid rgba(245, 230, 179, 0.18);
@@ -920,23 +920,14 @@ div.left img {
         0 0 18px rgba(194, 164, 90, 0.15),
         inset 0 0 25px rgba(245, 230, 179, 0.05);
 
-    color: #f5e6b3; /* imperial gold text tone */
-}
-
-    color: #fff6e6;
+    color: #f5e6b3;
 
     padding: 12px;
-    border: 1px solid rgba(212,175,55,0.35);
-
     border-radius: 12px;
 
-    box-shadow:
-        0 0 18px rgba(0,0,0,0.7),
-        inset 0 0 25px rgba(212,175,55,0.10),
-        0 0 8px rgba(212,175,55,0.20);
-
     box-sizing: border-box;
-    overflow-y: auto;
+
+    overflow: visible; /* key change */
     transition: all 0.35s ease;
 }
 
